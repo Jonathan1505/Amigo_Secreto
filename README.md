@@ -40,15 +40,17 @@ Puedes acceder a la aplicación en funcionamiento aquí: [Amigo Secreto](https:/
 
 1. **Pantalla principal:**
    
-   ![Pantalla principal](https://jonathan1505.github.io/Amigo_Secreto/assets/pantalla_principal.png)
+![pantalla_principal](https://github.com/user-attachments/assets/0cea509a-b3ab-4fab-86e4-159ff27f65b3)
 
 2. **Ingreso de nombres:**
    
-   ![Ingreso de nombres](https://jonathan1505.github.io/Amigo_Secreto/assets/ingreso_nombres.png)
+ ![Ingreso nombres](https://github.com/user-attachments/assets/1c66b2d2-1f6a-4cd7-ac78-ddf2471e6311)
+
 
 3. **Resultado del sorteo:**
    
-   ![Resultado del sorteo](https://jonathan1505.github.io/Amigo_Secreto/assets/resultado_sorteo.png)
+  ![resultado_sorteo](https://github.com/user-attachments/assets/f03a4371-2fbb-4f14-9c70-f5ad24e720c9)
+
 
 ## 🔑 Acceso al Proyecto
 
