@@ -38,16 +38,16 @@ Puedes acceder a la aplicación en funcionamiento aquí: [Amigo Secreto](https:/
 
 **Capturas de pantalla:**
 
-1. **Pantalla principal:**
+1. **Resultado del sorteo:**
    
 ![pantalla_principal](https://github.com/user-attachments/assets/0cea509a-b3ab-4fab-86e4-159ff27f65b3)
 
-2. **Ingreso de nombres:**
+2. **Pantalla principal:**
    
  ![Ingreso nombres](https://github.com/user-attachments/assets/1c66b2d2-1f6a-4cd7-ac78-ddf2471e6311)
 
 
-3. **Resultado del sorteo:**
+3. **Ingreso de nombres:**
    
   ![resultado_sorteo](https://github.com/user-attachments/assets/f03a4371-2fbb-4f14-9c70-f5ad24e720c9)
 
