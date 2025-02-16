@@ -42,12 +42,12 @@ Puedes acceder a la aplicación en funcionamiento aquí: [Amigo Secreto](https:/
    
 ![pantalla_principal](https://github.com/user-attachments/assets/0cea509a-b3ab-4fab-86e4-159ff27f65b3)
 
-2. **Pantalla principal:**
+2. **Ingreso de nombres:**
    
  ![Ingreso nombres](https://github.com/user-attachments/assets/1c66b2d2-1f6a-4cd7-ac78-ddf2471e6311)
 
 
-3. **Ingreso de nombres:**
+3. **Pantalla principal:**
    
   ![resultado_sorteo](https://github.com/user-attachments/assets/f03a4371-2fbb-4f14-9c70-f5ad24e720c9)
 
